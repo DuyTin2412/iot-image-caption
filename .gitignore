@@ -1,0 +1,4 @@
+models/vi_VN-vais1000-medium.onnx
+models/vi_VN-vais1000-medium.onnx.json
+.env
+__pycache__/

@@ -1,0 +1,8 @@
+flask
+python-dotenv
+Pillow
+ollama
+google-genai
+piper-tts
+transformers
+torch
